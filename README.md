@@ -3,4 +3,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://github.com/laaleh/Module-5-assignment/index.html)
+# To see the output [CLICK HERE](https://laaleh.github.io/Module-5-assignment/)
